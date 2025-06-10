@@ -10,120 +10,121 @@ total time spent: "~30hrs"
 
 ---
 
-### 📅 Day 1: Concept Dump & Sketchboard
+### Day 1: concept dump & sketchboard
 
 **Time Spent:** \~4 hrs
-Started with tea and chaos. Ideas everywhere.
+kicked off the build w/ a lot of tea and a LOT more random ideas. brain was kinda everywhere today.
 
-* Took out my notebook and dumped every rough sketch and half-baked idea from my brain — 2-axle, RWD layout only.
-* Dual 1000KV A2212 motors on a shared GT2 pulley? Seemed overkill — so obviously, I went with it.
-* Most online builds go PVC or aluminum; I decided to ditch that route and go full plastic — everything 3D printed, down to the last washer if I can help it.
-* Thought up an articulated rear pod setup that can pivot, giving some faux-suspension. Chassis up front remains a fixed spine with steering.
-* Jotted down a barebones BOM: motors, pulleys, 3D printed couplers, MG996R servo, ESCs, bearings — basically whatever was still lying around in my parts bin.
+* grabbed a notebook and just started dumping whatever ideas came to mind. i knew i wanted 2 axles and rear-wheel-drive. that’s it.
+* came up w/ this dumb but cool idea — 2x 1000KV drone motors feeding into a single GT2 pulley. totally overkill. totally doing it.
+* most ppl online use PVC or alu for the frame, but i’m going all in on 3D print. like, every single part. even washers if possible.
+* thought of a rear pod that swings to fake suspension vibes, while the front just stays stiff w/ steering.
+* scribbled a BOM from leftover parts: motors, pulleys, MG996R, ESCs, bearings. if it’s in the junk bin, it’s fair game.
 
-📌 Challenge for the week: everything must be printable on a 220x220 bed without hacks or multi-part gluing. Game on.
+set myself a challenge — every single part must fit on a 220x220 bed. no glue. no slicing into 20 parts. no nonsense.
 
 ---
 
-### 📅 Day 2: Rear Drive Module — Core Drivetrain
+### Day 2: rear drivetrain module
 
 **Time Spent:** \~5 hrs
-Fusion 360 in full throttle.
+fusion 360 was on fire today. built most of the back end.
 
-* Modeled the two A2212s mirrored so that both feed power into a common GT2 pulley sitting on a central 5mm rear axle.
-* Designed custom hex wheel hubs that slide onto the same axle — no differential, both wheels spin together.
-* Built a dual-motor bracket with motor-shaped cutouts for perfect fitment and integrated belt tensioning slots.
-* Added reinforcement ribs to the pulley holder to prevent flex and cracking during torque surges.
-* Every component snaps or bolts in. No glue. No nonsense. Rear pod is its own module — hot-swappable like a racing drone arm.
+* put 2 A2212 motors mirrored and modeled a GT2 pulley system that feeds torque into a single 5mm axle.
+* made hex wheel hubs that press-fit onto that same axle — no diff, both wheels spin same speed.
+* made a custom bracket that holds both motors tight w/ cutouts and belt tension slots.
+* added ribs n’ walls to the pulley block so it doesn’t flex when the car's ripping around.
+* everything either snaps in or bolts together. no glue, no epoxy, no drama. full module is swappable like drone arms.
 
-🧠 Spent too long figuring out how to keep belt tension steady under axle twist. Settled on an upper roller system and wider belt flanges. Feels robust now.
+spent too long on belt tension — finally just threw in a top roller and extended the flanges. it’s holding fine now.
 
 ---
 
-### 📅 Day 3: Front Axle Steering — Simplified Ackermann
+### Day 3: front steering mess
 
 **Time Spent:** \~4 hrs
-Steering — the one thing I didn't want to deal with, but had to.
+ugh steering. didn’t wanna do this but had to.
 
-* Created basic steering knuckles with pivot arms and short stub axles for the front wheels.
-* MG996R servo directly links to a drag link → tie rod setup — clean, minimal, enough play to avoid binding.
-* Tried to respect Ackermann geometry, but not obsessively. It’s an off-roader, not an F1 car. Close enough works.
-* Servo is mounted in a recessed cavity just above the axle for protection and wire clearance.
-* The front axle mounts to the chassis using a four-point bolt system for tool-free replacement.
+* made some chunky knuckles w/ pivot arms and mini stub axles for the front wheels.
+* linked up the MG996R servo to a drag link + tie rod. it’s janky but it works.
+* kinda followed ackermann steering stuff? not too serious. close enough for dirt.
+* servo sits in a nice little pocket above the axle — hidden and outta the way.
+* front axle bolts to the spine w/ 4 screws. fast to swap if anything breaks.
 
-🛞 The best part? Knuckles designed for tool-less wheel swap. No more fiddling with microscopic hex screws in sand.
+also made the front wheels easy to remove — just pull a pin, no micro hex screws in the sand anymore.
 
 ---
 
-### 📅 Day 4: Chassis Spine & Mounting Layout
+### Day 4: chassis spine
 
 **Time Spent:** \~5 hrs
-Built the skeleton — and it’s modular.
+made the skeleton. simple, strong, modular.
 
-* The chassis is a long, rail-based spine. All components slide and bolt onto it like train cars on a track.
-* Built in mount interfaces for: front steering axle, rear pod pivot, battery tray underneath, ESCs, and RX unit.
-* Routed zip tie guides, wire tunnels, and ventilation directly into the side walls — no spaghetti wiring here.
-* Kept the entire layout symmetrical and modular, so I can redesign just one module without touching the rest.
-* Divided the frame into 3 printable pieces, each <200mm, with tabs and pegs for clean snap-fit and alignment.
+* the chassis is just a long rail. every part bolts on like train cars.
+* added slots for everything: front axle, rear pod pivot, ESCs, battery tray, RX.
+* made zip tie guides and wire tunnels in the side walls — zero spaghetti cables.
+* tried to keep everything symmetrical so future changes don’t break stuff.
+* split the whole spine into 3 printable sections (<200mm). added pegs so it snaps together clean.
 
-🎯 Printability, repairability, airflow, and tool access — all baked in by design, not as afterthoughts.
+every part’s mounted using M3 nuts and screws. they’re everywhere. everything locks down tight now.
 
 ---
 
-### 📅 Day 5: Suspension Mock & Rear Articulation
+### Day 5: rear articulation test
 
 **Time Spent:** \~4 hrs
-Time to make it *bounce*.
+started playing around w/ suspension ideas.
 
-* Mounted the rear drive pod to the main spine using a central pivot — it swings under load like a rocker arm.
-* Added placeholders for suspension arms, with shock-ready slots and enough travel for chunky terrain.
-* Used parametric modeling for the shock mounts — lets me change angles and lengths without redrawing the model.
-* Designed low-friction pivot bushings using standard 3mm metal rods. No fancy parts, just smart tolerances.
-* Battery tray now partially sinks into the chassis base, keeping center of gravity low and stable.
+* rear pod is now pivot-mounted. it swings under pressure like a rocker.
+* added dummy arms and shock mounts w/ travel for off-road use.
+* used parametric features so i can tweak angles later without redrawing.
+* made pivot bushings that work w/ 3mm metal rods. tight tolerances only.
+* battery tray now sits low in the frame — lowers center of gravity a bit.
 
-🤘 The rear pod now kind of hangs under the car — gives it a vibe somewhere between Baja buggy and hover tank.
+rear pod kinda dangles under the car now. looks like a mix of a buggy and a moon rover.
 
 ---
 
-### 📅 Day 6: Full Assembly & Clash Check
+### Day 6: full assembly test
 
 **Time Spent:** \~4 hrs
-Time to bolt it all together in CAD.
+put everything together in cad. moment of truth.
 
-* Imported all modules — front, rear, middle — into a master assembly file to check geometry, fit, and clearance.
-* Ensured GT2 belt passes cleanly under chassis without snagging, and that motor wires don’t tangle or rub.
-* Verified servo horn angles and steering clearance across full travel. No binds, no weird overlaps.
-* Refined a few part tolerances, and added thread-start chamfers on every screw hole — no cross-threading nightmares.
-* Created a basic tire model with knobby tread just to visualize the final look and get hyped.
+* imported all the modules into one file — front, mid, back.
+* made sure GT2 belt clears the chassis and wires don’t rub anything.
+* servo angle, steering travel — checked everything. no weird clashes.
+* tweaked hole sizes and added chamfers so M3 screws go in easy.
+* modeled some tires w/ chunky treads just to get the vibe. looks sick.
 
-🧩 Honestly feels like building with LEGO Technic — everything slots, clicks, or bolts. Can’t wait to print.
+this thing fits together like LEGO. every part either slots or bolts. super satisfying.
 
 ---
 
-### 📅 Day 7: Print Prep & BOM Review
+### Day 7: print prep
 
 **Time Spent:** \~4 hrs
-Pre-flight check before the print storm begins.
+prep day. time to get slicer-ready.
 
-* Carefully oriented every STL for minimal supports, stronger layer lines, and easier cleanup.
-* Named every part version clearly: no `final_final_v6_real_this_time.stl` garbage.
-* Rechecked part tolerances by digitally simulating fit using the caliper tool in Fusion.
-* Added pegs, keys, and markers for straight, idiot-proof assembly during the print phase.
-* Final filament estimate: \~380g of PLA, roughly 11-12 hours print time, give or take failed first layers.
+* fixed orientation for every STL so there’s less support and stronger prints.
+* named files properly — no more "final\_final\_real.stl" stuff.
+* double-checked tolerances using the caliper tool in cad. everything should fit.
+* added pegs + markers to help line things up while assembling.
+* estimated around 380g PLA total, 11-12 hrs of print time unless the bed acts up.
 
-🧾 BOM spreadsheet now includes part name, weight, print time, number of parts, and assembly notes. OCD achieved.
+also made a proper BOM with names, weights, print time, part count, and how stuff fits. everything’s organized.
+
+---
+
+### status update
+
+all cad files are final and exported. STLs are cleaned up and sitting in the print folder. now just waiting for the real-world parts to show up:
+
+* 2x A2212 1000KV motors
+* GT2 5mm pulley kit + 200mm belt
+* 2x 30A ESCs + RX and TX
+
+as soon as stuff lands, printing begins. fingers crossed it drives like a beast and doesn’t melt the first time i hit throttle.
 
 ---
 
-### ✅ Status Update:
-
-All CAD files are finalized, clean, and exported. STL folder is locked and ready for slicing. Currently waiting for the real-world bits to show up:
-
-* 2x 1000KV A2212 BLDC Motors
-* GT2 5mm Pulley + 200mm Belt Kit
-* 2x 30A ESCs + Radio Receiver
-
-Once they land, the print marathon begins. Let’s see if this thing screams or melts.
-
----
 
