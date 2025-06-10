@@ -51,7 +51,8 @@ ugh steering. didn’t wanna do this but had to.
 * servo sits in a nice little pocket above the axle — hidden and outta the way.
 * front axle bolts to the spine w/ 4 screws. fast to swap if anything breaks.
 
-also made the front wheels easy to remove — just pull a pin, no micro hex screws in the sand anymore.
+<img width="258" alt="image" src="https://github.com/user-attachments/assets/f94675bc-2f0e-417c-8908-74cfc07c1084" />
+
 
 ---
 
@@ -65,6 +66,9 @@ made the skeleton. simple, strong, modular.
 * made zip tie guides and wire tunnels in the side walls — zero spaghetti cables.
 * tried to keep everything symmetrical so future changes don’t break stuff.
 * split the whole spine into 3 printable sections (<200mm). added pegs so it snaps together clean.
+
+<img width="234" alt="image" src="https://github.com/user-attachments/assets/a40a9300-58cc-4376-9946-bc8eca5c74b6" />
+
 
 every part’s mounted using M3 nuts and screws. they’re everywhere. everything locks down tight now.
 
@@ -82,6 +86,9 @@ started playing around w/ suspension ideas.
 * battery tray now sits low in the frame — lowers center of gravity a bit.
 
 rear pod kinda dangles under the car now. looks like a mix of a buggy and a moon rover.
+
+<img width="226" alt="image" src="https://github.com/user-attachments/assets/fbb1905c-f931-4b3e-99e5-5e8fec702725" />
+
 
 ---
 
