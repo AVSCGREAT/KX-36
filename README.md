@@ -13,6 +13,7 @@ KX-36 is a rear-wheel-drive, off-road RC car powered by 2x 1000KV A2212 drone mo
 The design is modular, overbuilt, and intentionally fun.
 
 **Inspo/Ref. for my project**
+
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/0431e8d6-eb49-4d44-b7cb-2c4b8c5e1d01" />
 
 
