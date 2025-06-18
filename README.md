@@ -47,12 +47,9 @@ Printer Volume: 220x220mm compatible
 
 * Rear Pod and Motor Mount
 * Front Steering Axle
-* Chassis Spine (in 3 segments)
-* Belt Cage and Guide
+* Chassis Spine 
 * Wheel Hubs and Knuckles
-* Battery Tray
 * Wire Management Clips
-* Dummy Shocks and Arms
 
 ### Electronics & Hardware:
 
@@ -60,9 +57,9 @@ Printer Volume: 220x220mm compatible
 * 2x 30A ESCs
 * 1x MG996R Servo
 * 1x GT2 Pulley Kit (5mm bore, 200mm belt)
-* 1x 3S LiPo Battery
-* 1x RC Receiver & Transmitter
-* M3 Nuts and Bolts
+* 1x 3S LiPo Battery (1800mah)
+* 1x RC Receiver & Transmitter (2.4ghz)
+* M3/4 Nuts and Bolts
 * 3mm Metal Rods (for pivot mounts)
 
 ---
@@ -74,26 +71,19 @@ Printer Volume: 220x220mm compatible
 
 ## Development Log:
 
-Day 1 – Concept Dump:
-Started with a lot of tea and a blank notebook. Knew I wanted RWD and two axles. Came up with a wild plan to drive both rear wheels with dual drone motors using a GT2 belt. Decided everything should be 3D printed – even small things like washers if possible. Sketched a BOM based on what I already had lying around.
+Day 1 – Concept Dump
 
-Day 2 – Rear Drivetrain Module:
-Modeled the rear end in Fusion 360. Mirrored the two motors and added a shared GT2 pulley system onto one axle. Built a custom bracket to hold everything with proper belt tension slots. It took time, but added a top roller and larger flanges to lock it in.
+Day 2 – Rear Drivetrain Module
 
-Day 3 – Front Steering System:
-Reluctantly tackled the front steering. Modeled chunky knuckles and stub axles. Used an MG996R servo with drag link + tie rod. It’s not super precise, but it works. Also made the front axle swappable and wheels easy to remove via pin, not tiny screws.
+Day 3 – Front Steering System
 
-Day 4 – Chassis Spine:
-Created a central skeleton that everything bolts onto. Designed with modularity in mind: front axle, ESCs, battery tray, all slide and screw in. Split into 3 printable sections with alignment pegs. Zip tie mounts and cable tunnels included.
+Day 4 – Chassis Spine
 
-Day 5 – Rear Articulation:
-Experimented with suspension ideas. Made a rear pod that pivots under pressure. Added dummy shocks and swing arms for looks and a bit of travel. Used 3mm rods and tight tolerances for the pivot bushings. Lowered the battery tray to reduce CG.
+Day 5 – Rear Articulation
 
-Day 6 – Full Assembly in CAD:
-Pulled everything together into one master file. Checked for belt clearances, steering angles, wire routes. Chamfered all screw holes for clean assembly. Even made tire mockups with treads just to get a feel.
+Day 6 – Full Assembly in CAD
 
-Day 7 – Print Prep:
-Reoriented all STLs for optimal printing. Cleaned up file names. Caliper-checked clearances and tolerances. Estimated \~380g PLA and 11–12 hours of total print time. Built a part-by-part BOM with print time and weights.
+Day 7 – Print Prep
 
 ---
 
@@ -102,16 +92,16 @@ Reoriented all STLs for optimal printing. Cleaned up file names. Caliper-checked
 KX-36
 
 * STLs
-* Fusion360 File
 * Final BOM
 * Render Previews
 * README.txt (this file)
+* JOURNAL.md
 
 ---
 
 ### Printing Tips:
 
-Material: PLA or PETG
+Material: PETG
 Layer Height: 0.2mm
 Infill: 40–60% for strength
 Supports: Minimal or none needed
@@ -136,7 +126,7 @@ Printing will start as soon as parts arrive. Fingers crossed it drives and doesn
 
 ### Future Plans:
 
-* Replace dummy shocks with real dampers
+* Replace dummy shocks with real dampers (Wltoys Aluminum ones)
 * Add TPU tires or hybrid print rubbers
 * Add telemetry (speed, temp) via Arduino or Pi
 * FPV camera for POV racing
@@ -146,11 +136,10 @@ Printing will start as soon as parts arrive. Fingers crossed it drives and doesn
 
 ### Tools Used:
 
-Fusion 360 – 3D modeling
-PrusaSlicer – Print prep
-Onshape – Early sketches
-VS Code – README editing
-Blender – Optional renders
+| Onshape – 3D modeling
+| 3ding – 3d Print service
+| TinkerCAD – Early sketches
+| Github – README editing
 
 ---
 
@@ -164,7 +153,7 @@ Big thanks to junk drawer electronics, patience, and Ctrl+Z
 ### Contact:
 
 Want to remix, collab, or get help building your own version?
-Reach out on GitHub @AVSC or through Hack Club.
+Reach out on GitHub @AVSCGREAT or through Hack Club Slack @AVSC.
 
 ---
 
