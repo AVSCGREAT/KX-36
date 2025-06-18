@@ -19,7 +19,7 @@ kicked off the build w/ a lot of tea and a LOT more random ideas. brain was kind
 * came up w/ this dumb but cool idea — 2x 1000KV drone motors feeding into a single GT2 pulley. totally overkill. totally doing it.
 * most ppl online use PVC or alu for the frame, but i’m going all in on 3D print. like, every single part. even washers if possible.
 * thought of a rear pod that swings to fake suspension vibes, while the front just stays stiff w/ steering.
-* scribbled a BOM from leftover parts: motors, pulleys, MG996R, ESCs, bearings. if it’s in the junk bin, it’s fair game.
+* scribbled a BOM for parts: motors, pulleys, MG996R, ESCs, bearings. if it’s in the junk bin, it’s fair game.
 
 set myself a challenge — every single part must fit on a 220x220 bed. no glue. no slicing into 20 parts. no nonsense.
 
@@ -28,7 +28,7 @@ set myself a challenge — every single part must fit on a 220x220 bed. no glue.
 ### Day 2: rear drivetrain module
 
 **Time Spent:** \~5 hrs
-fusion 360 was on fire today. built most of the back end.
+onshape the GOAT (die fusion360) . built most of the back end.
 
 * put 2 A2212 motors mirrored and modeled a GT2 pulley system that feeds torque into a single 5mm axle.
 * made hex wheel hubs that press-fit onto that same axle — no diff, both wheels spin same speed.
@@ -70,7 +70,7 @@ made the skeleton. simple, strong, modular.
 <img width="234" alt="image" src="https://github.com/user-attachments/assets/a40a9300-58cc-4376-9946-bc8eca5c74b6" />
 
 
-every part’s mounted using M3 nuts and screws. they’re everywhere. everything locks down tight now.
+every part’s mounted using M3/4 nuts and screws. they’re everywhere. everything locks down tight now.
 
 ---
 
@@ -100,8 +100,12 @@ put everything together in cad. moment of truth.
 * imported all the modules into one file — front, mid, back.
 * made sure GT2 belt clears the chassis and wires don’t rub anything.
 * servo angle, steering travel — checked everything. no weird clashes.
-* tweaked hole sizes and added chamfers so M3 screws go in easy.
-* modeled some tires w/ chunky treads just to get the vibe. looks sick.
+* tweaked hole sizes and added chamfers so M4 screws go in easy.
+* 
+
+  ![t725](https://github.com/user-attachments/assets/47c33c6f-9d02-44d6-bc92-043c33c67a09)
+
+
 
 this thing fits together like LEGO. every part either slots or bolts. super satisfying.
 
@@ -116,9 +120,13 @@ prep day. time to get slicer-ready.
 * named files properly — no more "final\_final\_real.stl" stuff.
 * double-checked tolerances using the caliper tool in cad. everything should fit.
 * added pegs + markers to help line things up while assembling.
-* estimated around 380g PLA total, 11-12 hrs of print time unless the bed acts up.
+* estimated around 380g PLA/PETG total, 11-12 hrs of print time unless the bed acts up.
 
-also made a proper BOM with names, weights, print time, part count, and how stuff fits. everything’s organized.
+also made a proper BOM & wrote down readme.
+
+
+![image](https://github.com/user-attachments/assets/bab96a03-8d37-48fc-a0c0-cc7710fdd6c6)
+
 
 ---
 
