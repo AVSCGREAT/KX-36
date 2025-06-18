@@ -18,6 +18,12 @@ The design is modular, overbuilt, and intentionally fun.
 ![453310755-0431e8d6-eb49-4d44-b7cb-2c4b8c5e1d01-removebg-preview](https://github.com/user-attachments/assets/89af0f78-43d7-413d-b778-d0ff10778662)
 
 
+### Assembled - 
+
+
+![t725](https://github.com/user-attachments/assets/143fd634-8fcf-47b4-a90a-ccd8b17d670a)
+
+
 
 ---
 
@@ -58,6 +64,11 @@ Printer Volume: 220x220mm compatible
 * 1x RC Receiver & Transmitter
 * M3 Nuts and Bolts
 * 3mm Metal Rods (for pivot mounts)
+
+---
+
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/bcc81950-2d82-41cf-a9cb-286526a27363" />
+
 
 ---
 
