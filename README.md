@@ -18,6 +18,12 @@ The design is modular, overbuilt, and intentionally fun.
 ![453310755-0431e8d6-eb49-4d44-b7cb-2c4b8c5e1d01-removebg-preview](https://github.com/user-attachments/assets/89af0f78-43d7-413d-b778-d0ff10778662)
 
 
+**Inspired by 'Bujji' from movie "KALKI 2898"**
+
+
+![unnamed 4](https://github.com/user-attachments/assets/31dc5ff0-5aa1-4e0c-97ce-e81dd88f7876)
+
+
 ### Assembled - 
 
 
