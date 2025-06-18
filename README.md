@@ -14,7 +14,8 @@ The design is modular, overbuilt, and intentionally fun.
 
 **Inspo/Ref. for my project**
 
-<img width="332" alt="image" src="https://github.com/user-attachments/assets/0431e8d6-eb49-4d44-b7cb-2c4b8c5e1d01" />
+
+![453310755-0431e8d6-eb49-4d44-b7cb-2c4b8c5e1d01-removebg-preview](https://github.com/user-attachments/assets/89af0f78-43d7-413d-b778-d0ff10778662)
 
 
 
