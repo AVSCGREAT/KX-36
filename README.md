@@ -30,6 +30,8 @@ The design is modular, overbuilt, and intentionally fun.
 ![t725](https://github.com/user-attachments/assets/143fd634-8fcf-47b4-a90a-ccd8b17d670a)
 
 
+**Assembled Onshape link**- [https://cad.onshape.com/documents/36c5373b89824f2c3393e501/w/0f491b5238d02f75787e74f6/e/eece62a6272dec732a0d6745?renderMode=0&uiState=686151a81646844f92666930
+](url)
 
 ---
 
