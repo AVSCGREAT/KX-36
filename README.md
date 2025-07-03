@@ -148,7 +148,6 @@ KX-36
 
 * STLs
 * Final BOM
-* Render Previews
 * README.txt (this file)
 * JOURNAL.md
 
