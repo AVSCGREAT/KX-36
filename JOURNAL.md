@@ -38,6 +38,10 @@ onshape the GOAT (die fusion360) . built most of the back end.
 
 spent too long on belt tension — finally just threw in a top roller and extended the flanges. it’s holding fine now.
 
+
+![result (3)](https://github.com/user-attachments/assets/a50f814c-fd8d-43a4-acfa-eb951c283b73)
+
+
 ---
 
 ### Day 3: front steering mess
@@ -52,6 +56,13 @@ ugh steering. didn’t wanna do this but had to.
 * front axle bolts to the spine w/ 4 screws. fast to swap if anything breaks.
 
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/f94675bc-2f0e-417c-8908-74cfc07c1084" />
+
+
+![result](https://github.com/user-attachments/assets/fc7fc6d5-d0d8-4a9b-836b-8b93634e4e9f)
+
+
+![result (1)](https://github.com/user-attachments/assets/53ed5e73-2a87-48c0-a988-a94339fa308d)
+
 
 
 ---
@@ -71,6 +82,10 @@ made the skeleton. simple, strong, modular.
 
 
 every part’s mounted using M3/4 nuts and screws. they’re everywhere. everything locks down tight now.
+
+
+![result (2)](https://github.com/user-attachments/assets/2d0ad96f-1a8d-4dd9-a2d5-14fb10ad0f05)
+
 
 ---
 
@@ -106,8 +121,12 @@ put everything together in cad. moment of truth.
   ![t725](https://github.com/user-attachments/assets/47c33c6f-9d02-44d6-bc92-043c33c67a09)
 
 
-
 this thing fits together like LEGO. every part either slots or bolts. super satisfying.
+
+
+![result (5)](https://github.com/user-attachments/assets/678b74dd-6b15-426f-8ac0-2fcc3fcbb67b)
+
+
 
 ---
 
