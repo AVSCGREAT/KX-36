@@ -63,11 +63,11 @@ Printer Volume: 220x220mm compatible
 
 | Item                                | Qty   | Est. Price (USD) | Total       |
 | ---------------------------------- | ----- | ---------------- | ----------- |
-| A2212 1000KV BLDC Motor            | 2     | $5.50 each      | **$11.00**  |
-| 30A ESC with BEC                   | 2     | $6.00 each      | **$12.00**  |
-| MG996R Servo                      | 1     | $5.00           | **$5.00**   |
-| 3CH/4CH TX+RX Set (FlySky i6-style)| 1    | $52.00          | **$52.00**  |
-| 3S 2200mAh LiPo Battery            | 1     | $22.00          | **$22.00**  |
+| A2212 1000KV BLDC Motor            | 2     | $5.50 each      | **$11.00**  - https://robu.in/product/a2212-13t-1000kv-brushless-motor-outrunner-30a-esc/|
+| 30A ESC with BEC                   | 2     | $6.00 each      | **$12.00** - https://robu.in/product/a2212-13t-1000kv-brushless-motor-outrunner-30a-esc/ |
+| MG996R Servo                      | 1     | $5.00           | **$5.00**  - https://robu.in/product/towerpro-mg996r-digital-high-torque-servo-motor/ |
+| 3CH/4CH TX+RX Set (FlySky i6-style)| 1    | $52.00          | **$52.00** - https://robu.in/product/flysky-fs-i6-2-4g-6ch-ppm-rc-transmitter-with-fs-ia6b-receiver/ |
+| 3S 2200mAh LiPo Battery            | 1     | $22.00          | **$22.00** - https://robu.in/product/bonka-11-1v-2200mah-25c-3s-lithium-polymer-battery-pack/  |
 | Connectors, UBEC, Wires            | 1 set | $3.00           | **$3.00**   |
 
 **Subtotal: ~$63.00**
@@ -78,30 +78,19 @@ Printer Volume: 220x220mm compatible
 
 | Item                      | Qty      | Est. Price (USD) | Total       |
 | ------------------------- | -------- | ---------------- | ----------- |
-| GT2 20T Pulleys           | 1        | $4.00 each      | **$4.00**   |
-| GT2 60T Pulleys           | 1        | $6.00 each      | **$6.00**   |
-| GT2 Belt                  | 1        | $1.50           | **$1.50**   |
+| GT2 20T Pulleys           | 1        | $4.00 each      | **$4.00**  - https://www.amazon.in/Serplex%C2%AE-Synchronous-Aluminum-Projects-Printer/dp/B0D89W19JT/ref=sr_1_2_sspa?crid=2T854E0ZNRNWW&dib=eyJ2IjoiMSJ9.u88eXvTgeOqZGxd5AzAoeGqZoljqAZPa7752MQWVPWnECsXUpA7v5Eie-r47skFN1ATacee6QyhiOaie0LRN_qz85ZpyQ_rn3zGloQ_I6t8kenQ8QTx3Cner31DNNjzaj-ph8fhKtdfwARwrg7M8ylaxdlxlzM2L8z_t3EsH6h9fjQ4kA5K6Qj0WIK84n6R-YoK7SOFfC4cSyDyaKJ3t-Ae9-xdtr-CRBp-ZP-6WJeYWSPP0yonLAnpnQKVhvUcX6JNIeq-kCvTDwfpJNHHcVsGoG8xD2oLyRPqF8saQjTk.Fh38liv-NsS5fPczEuU_Vck_cBLG9CY2_TcJOrOQXCk&dib_tag=se&keywords=gt2+20t+pulley&qid=1751690070&sprefix=gt2+20%2Caps%2C273&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 |
+| GT2 60T Pulleys           | 1        | $6.00 each      | **$6.00**   - https://www.amazon.in/Serplex%C2%AE-Synchronous-Aluminum-Projects-Printer/dp/B0D89W19JT/ref=sr_1_2_sspa?crid=2T854E0ZNRNWW&dib=eyJ2IjoiMSJ9.u88eXvTgeOqZGxd5AzAoeGqZoljqAZPa7752MQWVPWnECsXUpA7v5Eie-r47skFN1ATacee6QyhiOaie0LRN_qz85ZpyQ_rn3zGloQ_I6t8kenQ8QTx3Cner31DNNjzaj-ph8fhKtdfwARwrg7M8ylaxdlxlzM2L8z_t3EsH6h9fjQ4kA5K6Qj0WIK84n6R-YoK7SOFfC4cSyDyaKJ3t-Ae9-xdtr-CRBp-ZP-6WJeYWSPP0yonLAnpnQKVhvUcX6JNIeq-kCvTDwfpJNHHcVsGoG8xD2oLyRPqF8saQjTk.Fh38liv-NsS5fPczEuU_Vck_cBLG9CY2_TcJOrOQXCk&dib_tag=se&keywords=gt2+20t+pulley&qid=1751690070&sprefix=gt2+20%2Caps%2C273&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|
+| GT2 Belt                  | 1        | $1.50           | **$1.50**   -https://www.amazon.in/Serplex%C2%AE-Synchronous-Aluminum-Projects-Printer/dp/B0D89W19JT/ref=sr_1_2_sspa?crid=2T854E0ZNRNWW&dib=eyJ2IjoiMSJ9.u88eXvTgeOqZGxd5AzAoeGqZoljqAZPa7752MQWVPWnECsXUpA7v5Eie-r47skFN1ATacee6QyhiOaie0LRN_qz85ZpyQ_rn3zGloQ_I6t8kenQ8QTx3Cner31DNNjzaj-ph8fhKtdfwARwrg7M8ylaxdlxlzM2L8z_t3EsH6h9fjQ4kA5K6Qj0WIK84n6R-YoK7SOFfC4cSyDyaKJ3t-Ae9-xdtr-CRBp-ZP-6WJeYWSPP0yonLAnpnQKVhvUcX6JNIeq-kCvTDwfpJNHHcVsGoG8xD2oLyRPqF8saQjTk.Fh38liv-NsS5fPczEuU_Vck_cBLG9CY2_TcJOrOQXCk&dib_tag=se&keywords=gt2+20t+pulley&qid=1751690070&sprefix=gt2+20%2Caps%2C273&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|
 | 5mm Steel Shaft           | 1        | $1.30           | **$1.30**   |
 | 3mm Steel Rod             | 1        | $1.50           | **$1.50**   |
 | Bearings (5×11×4mm)       | 6        | $0.25 each      | **$1.50**   |
-| M3 Screws, Inserts, Nuts  | Assorted | $3.00           | **$3.00**   |
-| RC Off-road Wheels        | 4        | $3.00 each      | **$12.00**  |
-| Shock Absorbers           | 2        | $4.50 each      | **$9.00**   |
-| PLA+/PETG Filament (1kg)  | 1        | $12.00          | **$12.00**  |
+| M3 Screws, Inserts, Nuts  | Assorted | $3.00           | **$3.00**  - https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NDM2MzExNzEzMzAxMjM4OjE3NTE2OTAxMTQ6c3BfYXRmOjMwMDE0MzE4MjM2OTkzMjo6MDo6&url=%2FEpi-Torque-Epic-Torque-Doityourself-Assortment%2Fdp%2FB08F4K55T2%2Fref%3Dsr_1_2_sspa%3Fcrid%3D960F4QASPQNT%26dib%3DeyJ2IjoiMSJ9.77zWTzKNb3lk4whLwiyGnWpgXnT4JMB4oV2Y93Yik4bA1MO8RtvKv07ybqmUHAFYNA1UYfalkcE3Iuhh06MHZxwzGdGxJd19EvwClAPV1Is8Npw90uXValqReDmO2viy8rekDcOKPWjEs1wD4DAVTVqkXBQL24zTkk8GeZaqVzm1L52cOnhuOUaNvjnioSMuSRcR7PTsKtdhftv7YNCFcBTvYNCc-DC347ZxTRy23nouKvWGfb0PT-3ykiCFIYArG8AT3LYfm31yGex_MYlQo7_ebvJIPgONCRzXXtL0FaI.QzQMZuacGbRqH5lULSLKGmXaS8FF7afs5EU2VrxFxpk%26dib_tag%3Dse%26keywords%3Dm4%2Bnuts%26qid%3D1751690114%26sprefix%3Dm4%2Bnut%252Caps%252C274%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&cr=DUB  |
+| RC Off-road Wheels        | 4        | $3.00 each      | **$12.00**  -https://robu.in/product/65mm-robot-smart-car-12-rim-wheel-blue/  |
+| Shock Absorbers           | 2        | $4.50 each      | **$9.00**  - https://robu.in/product/wltoys-a959-aluminum-shock-absorber-1-pair/ |
+
 
 **Subtotal: ~$45.00**
 
----
-
-###  **Tools & Misc**
-
-| Item                      | Qty | Est. Price (USD) |
-| ------------------------- | --- | ---------------- |
-| Soldering Kit             | 1   | $7.00            |
-| M3/4 Nuts and Bolts       | 1 set  | $4.00            | 
-| Super Glue / Loctite      | 1   | $1.00            |
-
-**Subtotal: $12.00**
 
 ---
 
